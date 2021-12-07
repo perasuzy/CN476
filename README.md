@@ -4,7 +4,7 @@
 - https://youtu.be/xpFTHaUtga8
 
 ### InterPlanetary File System (IPFS)
-
+- https://youtu.be/-dgRRDUZ1zs
 ```
 เป็น protocol ชนิดหนึ่งที่มีลักษณะแบบ peer to peer 
 ซึ่งจะเป็นการใช้งาน hash function มาช่วยในการเก็บข้อมูล
@@ -12,5 +12,5 @@
 มีความสามารถที่ดีกว่า http ทีมีเซิฟเวอร์ตัวเดียว แล้วยังสามารถป้องกันการเปลี่ยนแปลงหรือความผิดพลาดข้อมูลได้อีกด้วย
 ```
 
-### Video ประกอบ
-- https://youtu.be/-dgRRDUZ1zs
+### TOR
+- https://youtu.be/ycGN4KznxNQ
